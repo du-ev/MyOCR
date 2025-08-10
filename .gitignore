@@ -1,0 +1,17 @@
+__pycache__/
+uploads/
+data/
+synthtiger/
+all_fonts/
+*.txt
+*.json
+*.pkl
+*.csv
+*.jpg
+*.jpeg
+*.png
+*.manifest
+.env
+*.pkl
+pt/
+checkpoints/
